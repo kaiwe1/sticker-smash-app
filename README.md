@@ -1,5 +1,7 @@
 # Sticker Smash App
 
+https://expo-sticker-smash-web-build.vercel.app/
+
 ## Table of Contents
 
 - [Sticker Smash App](#sticker-smash-app)
@@ -12,7 +14,8 @@
 
 ## About <a name = "about"></a>
 
-This is an app named StickerSmash that runs on Android, iOS, and the web from [tutorial](https://docs.expo.dev/tutorial/introduction/)
+This is an app named StickerSmash that runs on Android, iOS, and the web from [tutorial](https://docs.expo.dev/tutorial/introduction/).
+Written in TS.
 
 ## Getting Started <a name = "getting_started"></a>
 
