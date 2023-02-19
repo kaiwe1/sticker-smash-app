@@ -1,5 +1,7 @@
 # Sticker Smash App
 
+https://expo-sticker-smash-web-build.vercel.app/
+
 ## Table of Contents
 
 - [Sticker Smash App](#sticker-smash-app)
